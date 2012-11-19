@@ -6,10 +6,7 @@ Requires at least: 3.0
 Tested up to: 3.3
 Stable tag: trunk
 
-Add Google Plus Profile Picture to Google Search Results. Very Easy to implement. Just 3 easy steps to process:
-1. Plugin Installation
-2. Enter Google Profile URL in Profile Page
-3. Post a link back from Google Plus Profile to Your Current Website
+Add Google Plus Profile Picture to Google Search Results. Very Easy to implement!
 
 Google authorship for multiple authors
 
@@ -18,6 +15,11 @@ Google authorship for multiple authors
 Google Plus Profile Picture appear in Google Search. Integrate Google Plus Profile with Wordpress. Make your website come up in Google. 
 
 Including Google authorship for multiple authors and for wordpress multisite
+
+Just 3 easy steps to process:
+1. Plugin Installation
+2. Enter Google Profile URL in Profile Page
+3. Post a link back from Google Plus Profile to Your Current Website
 
 
 == Installation ==
@@ -43,11 +45,6 @@ Including Google authorship for multiple authors and for wordpress multisite
 3. Click the Contributor To section on the right, and then click Add custom link. Get a link from their. ( For the first time, add a link from description area, other profiles, contributor to, and from recommended link.
 4. Click Save.
 
-== ChangeLog ==
-= Version 1.0 =
-
-* First release.
-
 == Frequently Asked Questions ==
 
 
@@ -57,6 +54,8 @@ Including Google authorship for multiple authors and for wordpress multisite
 3. Rich Snippet Testing Tool
 
 == Changelog ==
+= 2.1 =
+* Fixed readme.txt texts 
 = 1.0 =
 * Google Authorship for Multiple Authors
 * Google Authorship for wordpress multisite.
