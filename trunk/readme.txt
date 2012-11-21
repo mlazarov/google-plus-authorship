@@ -54,6 +54,8 @@ Just 3 easy steps to process:
 3. Rich Snippet Testing Tool
 
 == Changelog ==
+= 2.2 =
+* Fixed author blog url
 = 2.1 =
 * Fixed readme.txt texts 
 = 1.0 =

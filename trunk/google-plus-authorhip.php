@@ -2,9 +2,9 @@
 
 /*
 Plugin Name: Google Plus Authorship
-Plugin URI: http://marto.lazarov.org/plugins/google-plus-auhorship
+Plugin URI: http://marto.lazarov.org/plugins/google-plus-authorship
 Description: Google Plus Authorship enables Your profile picture to appear in Google Search Results. Very Easy to implement. Just 3 step to process
-Version: 2.1
+Version: 2.2
 Author: Martin Lazarov
 Author URI: http://marto.lazarov.org
 License: GPL2
