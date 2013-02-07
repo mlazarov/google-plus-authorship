@@ -55,6 +55,8 @@ Just 3 easy steps to process:
 3. Rich Snippet Testing Tool
 
 == Changelog ==
+= 2.3 =
+* Code cleanup
 = 2.2 =
 * Fixed author blog url
 = 2.1 =
