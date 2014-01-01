@@ -55,6 +55,8 @@ Just 3 easy steps to process:
 3. Rich Snippet Testing Tool
 
 == Changelog ==
+= 2.4.1 =
+* Hotfix
 = 2.4 =
 * Fixing plugin for wordpress 3.8 hook issues
 = 2.3 =
