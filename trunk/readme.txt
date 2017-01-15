@@ -3,7 +3,7 @@ Contributors: mlazarov
 Donate Link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=D96ZZLGAV8X8J
 Tags: google plus, google plus author, authorship, google authorship, google, google plus integration, google plus search
 Requires at least: 3.0
-Tested up to: 3.3
+Tested up to: 4.7.1
 Stable tag: trunk
 
 Add Google Plus Profile Picture to Google Search Results. Very Easy to implement!
@@ -41,7 +41,7 @@ Just 3 easy steps to process:
 
 * Get a link back from your Google Plus Profile
 
-1. Sign in your Google profile. 
+1. Sign in your Google profile.
 2. Click Edit profile.
 3. Click the Contributor To section on the right, and then click Add custom link. Get a link from their. ( For the first time, add a link from description area, other profiles, contributor to, and from recommended link.
 4. Click Save.
@@ -55,6 +55,8 @@ Just 3 easy steps to process:
 3. Rich Snippet Testing Tool
 
 == Changelog ==
+= 2.6 =
+* dos2unix conversion of all files
 = 2.5 =
 * Rewriting filters and ading more template cases
 = 2.4.1 =
@@ -66,7 +68,7 @@ Just 3 easy steps to process:
 = 2.2 =
 * Fixed author blog url
 = 2.1 =
-* Fixed readme.txt texts 
+* Fixed readme.txt texts
 = 1.0 =
 * Google Authorship for Multiple Authors
 * Google Authorship for wordpress multisite.
